@@ -2,7 +2,8 @@
   <img src="https://media.giphy.com/media/LOznMvZUKneOhiIscg/giphy.gif" width="90"/>
 </div>
 <h1 align="center">
-  Hello, my name is Irene
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%black&lines=Hello,+my+name+is+Irene!)](https://git.io/typing-svg)
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -16,4 +17,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :four_leaf_clover: About this project:
 
-If you feel lost, read a random quote, you will find a clue in it.
+Just a few minutes to play and it will relieve your brain.
