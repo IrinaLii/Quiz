@@ -1,10 +1,10 @@
 <div align="center">
   <img src="https://media.giphy.com/media/LOznMvZUKneOhiIscg/giphy.gif" width="90"/>
 </div>
+____________________________________________________________________________________________________________________________________________
 <h1 align="center">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%black&lines=Hello,+my+name+is+Irene!)](https://git.io/typing-svg)
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 ### :maple_leaf: About Me :
