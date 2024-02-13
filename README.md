@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGp5cmZscmdkNWJ1a3hrZ2FvZmo5Nm8xZjhzNzNlYXR1ejljempyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ca2IQQI3LfR1saF1vf/giphy.gif" width="80"/>
+  <img src="https://media.giphy.com/media/LOznMvZUKneOhiIscg/giphy.gif" width="90"/>
 </div>
 <h1 align="center">
   Hello, my name is Irene
